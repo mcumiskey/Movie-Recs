@@ -1,6 +1,6 @@
 
 # Movie Recommendation 
-The goal of this project is to implement various recommendation techniques (such as the surprise package, K-nearest neighbors, and natural language processing) and examine each result. 
+The goal of this project is to implement various recommendation techniques (such using the surprise package) to examine how each technique works. 
 
 # Overview
 Presentation: https://github.com/mcumiskey/Aviation-Risk-Analysis/blob/main/Presentations/Phase%201_%20Aviation%20Project.pdf
@@ -17,11 +17,12 @@ The data is from [MovieLens](https://grouplens.org/datasets/movielens/latest/). 
 
 
 ## Conclusion
-Our t
-   
+I am able to provide recommendations with a rmse of 1.8. (meaning, our predicted score for a movie-user combo may be off by around 1.8 points)
 
 ## Next Steps 
 **Combine** the various approaches to create a hybrid model 
+
+**Use an NLP model to group movies with similar tags** 
 
 **Add influencer recommendations** to highlight specific movies 
 
