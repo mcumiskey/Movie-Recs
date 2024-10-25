@@ -14,10 +14,18 @@ The goal is to be able to use a collaborative recommendation to provide a user m
 ## Data Understanding and Analysis
 
 The data is from [MovieLens](https://grouplens.org/datasets/movielens/latest/). It contains 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018
+![most movies are from the 1980s - 2010s](img/image-4.png)
 
+![Forrest Gump is a frequently rated movie](img/image-2.png)
+
+![most ratings are in the 3-4 range (on a scale of 0.5 to 5)](img/image-1.png)
+
+![highest and lowest rated movies with a significant number of reviews](img/image-3.png)
 
 ## Conclusion
-I am able to provide recommendations with a rmse of 1.8. (meaning, our predicted score for a movie-user combo may be off by around 1.8 points)
+I am able to provide recommendations with a rmse of 0.8. (meaning, our predicted score for a movie-user combo may be off by around 0.8 points!)
+
+- provided specific recommendations for a random user.
 
 ## Next Steps 
 **Combine** the various approaches to create a hybrid model 
