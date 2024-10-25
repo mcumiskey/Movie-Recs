@@ -37,19 +37,11 @@ I am able to provide recommendations with a rmse of 0.8. (meaning, our predicted
 
 ## Project Structure 
 ```
-├── Presentations
-│   ├── notebook.pdf
-│   ├── github.pdf
-│   └── Phase_1_Aviation Project.pdf
+├── Pdfs
 ├── data
-│   ├── AviationData.csv
-│   └── USState_Codes.csv
 ├── images
-│   ├── airplane-isolated-on-transparent-background-3d-rendering-aircraft-png-2455088391.png
-│   ├── horizontal_div_left.png
-│   └── horizontal_div_right.png
 ├── .DS_Store
 ├── .gitignore
 ├── README.md
-└── aviation analysis conclusion.ipynb
+└── Movie_Reccomender.ipynb
 ```
